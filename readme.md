@@ -66,3 +66,23 @@ _이텔릭_
 CSS에서 `background` 혹은 
 `background-image` 속성으로 요소에 배경
 이미지를 삽입할 수 있습니다.
+
+
+# 블록(block) 코드 강조
+```html
+<a href="https://google.com">Google</a>  
+```
+
+```
+동해물과 백두산이 마르고 닳도록
+하느님이 보우하사 우리나라 만세
+```
+
+# 표(Table)
+
+position 속성
+
+값 | 의미 | 기본값
+--|--|--
+static | 기준 없음 | O
+relative | 요소 자신 | X
