@@ -50,3 +50,19 @@ _이텔릭_
 
 <a href="https://naver.com" title="네이버로 이동!">Naver</a>  
 [Naver](https://naver.com "네이버로 이동!")
+
+# 이미지(Images)
+
+![이미지 로고](https://heropy.blog/css/images/logo.png)
+[![이미지 로고](https://heropy.blog/css/images/logo.png)](https://naver.com)
+
+# 인용문(BolckQuote)
+
+> 남의 말이나 글에서 직접 또는 간접으로 따온 문장.
+>> (네이버 국어 사전)
+
+# 인라인(inline) 코드 강조
+
+CSS에서 `background` 혹은 
+`background-image` 속성으로 요소에 배경
+이미지를 삽입할 수 있습니다.
