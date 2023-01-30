@@ -55,8 +55,8 @@ _이텔릭_
 
 # 이미지(Images)
 
-![이미지 로고](https://heropy.blog/css/images/logo.png)
-[![이미지 로고](https://heropy.blog/css/images/logo.png)](https://naver.com)
+![이미지 로고]()
+[![이미지 로고]()
 
 # 인용문(BolckQuote)
 
